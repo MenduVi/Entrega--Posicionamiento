@@ -31,8 +31,8 @@ header {
 .sidebar {
   border: 1px dotted #9ad79b;
   box-sizing: border-box;
-  padding-left: 20px;
-  padding: 15px;
+  /* padding-left: 80x; */
+  padding: 15px 10px 15px 20px;
   width: 9%;
   position: relative;
   left: 90%;
