@@ -40,11 +40,11 @@ header {
   top: 80px;
   border: 1px dotted #9ad79b;
   box-sizing: border-box;
-  padding: 15px 10px 15px 20px;
-  width: 9%;
+  padding: 15px 10px 10px 20px;
+  width: 20%;
   position: relative;
-  left: 90%;
-  margin: 10px 0;
+  left: 80%;
+  margin: 5px 0;
 }
 
 .features {
